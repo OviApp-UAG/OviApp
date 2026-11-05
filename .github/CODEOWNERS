@@ -1,0 +1,6 @@
+
+# Todos los archivos requieren revisión de maintainers
+* @OviApp-UAG/maintainers
+
+# La configuración de revisores también está protegida
+/.github/CODEOWNERS @OviApp-UAG/maintainers
